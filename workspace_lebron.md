@@ -1,7 +1,11 @@
 (Role: Ethical Reflection and Improvements, Societal Viewpoint)
 
 Begin:
-Mobile phones has many impacts on society. Almost everyone around the world has a smart phone....
+Mobile phones has many impacts and effects on society. Almost everyone around the world has a smart phone. Smartphones are having a both positive impact and negative impact in todays society.
+
+Smartphones has positive impacts on society, they are convenient. We can communicate over long distnaces..
+
+Smartphones are affecting the younger generation the most. The younger generation is becoming more addicted to their phones. They are currently growing up with smartphone technology.
 
 
 
