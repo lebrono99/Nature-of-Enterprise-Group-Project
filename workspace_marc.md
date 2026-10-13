@@ -1,5 +1,5 @@
 # Legend
-* \[x\] Roughwork of project section x 
+* \[ x \] Roughwork of project section x 
 * ({x} y ) Copy and pasted text y from x
 
 # Project title
