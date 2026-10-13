@@ -17,3 +17,4 @@ So to start, the first smartphone ever made was in 1992 by IBM engineer Frank Ca
 
 https://en.wikipedia.org/wiki/History_of_smartphones
 https://www.theseus.fi/server/api/core/bitstreams/84e19f4d-425c-43ec-991a-e8ea8b2828b9/content 
+https://en.wikipedia.org/wiki/IPhone_(1st_generation)
