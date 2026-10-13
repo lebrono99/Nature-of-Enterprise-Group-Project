@@ -1,7 +1,7 @@
 (Role: Ethical Reflection and Improvements, Societal Viewpoint)
 
 Begin:
-Mobile phones has many impacts on society. Almost everyone around the world has a smart phone
+Mobile phones has many impacts on society. Almost everyone around the world has a smart phone....
 
 
 
