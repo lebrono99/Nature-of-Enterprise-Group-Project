@@ -1,6 +1,6 @@
 # Legend
 [x] Roughwork of project section x 
-({x} y ) Copy and pasted text y from x
+ ({x} y ) Copy and pasted text y from x
 
 # Project title
 Evolution of mobile-phones to smartphones(Nokia to iPhone) 
