@@ -1,6 +1,6 @@
 # Legend
-[x] Roughwork of project section x 
- ({x} y ) Copy and pasted text y from x
+* [x] Roughwork of project section x 
+* ({x} y ) Copy and pasted text y from x
 
 # Project title
 Evolution of mobile-phones to smartphones(Nokia to iPhone) 
@@ -21,13 +21,12 @@ Scientific view point
     
 
 # To research
-IPhone initial technology, 
-Phone OS,
+* IPhone initial technology, 
+* Phone OS,
 
 
 # What is a scientific viewpoint
-From a scientific viewpoint the evolution of mobile phones to smartphones has
-led to advances in computer science and created key technologies such as: (insert txt)
+* From a scientific viewpoint the evolution of mobile phones to smartphones has led to advances in computer science and created key technologies such as: (insert txt)
 
   
   
