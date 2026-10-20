@@ -2,6 +2,7 @@
 - Evolution of the smartphone
 
 - Historical development
+
   Nowadays, most of us here have smartphones which we use everyday but it wasn't always the case so today we will talk about the history of the smartphone and its development.
 - So to start, the first smartphone ever made was in 1992 by IBM engineer Frank Canova. It could do things like checking stocks, news, sports, weather and more!
 - Since then in 1994, they made the 1st public available phone called the Simon and improved their previous model so that it could make telephone calls, send and receive emails, and it had apps like a calendar, appointment    scheduler, calculator, world clock, and notepad.
