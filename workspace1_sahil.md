@@ -1,4 +1,3 @@
-- Nature of Enterprise Computing CA1
 - Evolution of the smartphone
 
 - Historical development
