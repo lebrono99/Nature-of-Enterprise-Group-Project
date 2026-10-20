@@ -14,7 +14,7 @@
 
 - The biggest revolutionary smartphone upgrade that most of us can agree on is the creation of the IPhone in 2007 which was announced by the original creator Steve Jobs. He even said himself that "this is a day that I have been looking forward to for 2 and a half years," and that "today, Apple is going to reinvent the phone."
 - In 2000, Steve Jobs envisioned the IPhone having a full touchscreen display without the need for a stylus or extra buttons which is how most phones are nowadays. The stylus was commonly used back in the day with touchscreen phones but removing it could make the experience less annoying and save money.
-- 6 weeks after the IPhones release, the screen was replaced from plastic to glass after Steve Jobs was upset that his keys scratched the display while it was in his pocket. Every phone nowadays followed by using glass and avoiding other materials.
+- 6 weeks after the IPhones release, the screen was replaced from plastic to glass after Steve Jobs was upset that his keys scratched the display while it was in his pocket. Every phone nowadays followed by using glass and avoiding other materials that would be worse for the display.
 
 
 
