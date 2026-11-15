@@ -24,22 +24,29 @@ Scientific view point
     
 
 # To research
-* IPhone initial technology, 
+* Smartphone inital technology
+* Iphone initial technology, 
 * Phone OS,
-* iphone mutli-touch display
+* First smartphone: IBM Simon Personal Communicator
+* Preceading smartphones to the Apple 1st and 2nd generation Iphones
+* Iphone mutli-touch display
 
 
 # What is a scientific viewpoint
-* From a scientific viewpoint the evolution of mobile phones to smartphones can be evalutated through the development of novel technologies, modification/adoption of pre-existing technologies, removal/replacement of redunant technologies and differences in the function of phones.
+* From a scientific viewpoint the evolution of mobile phones to smartphones can be evaluated through the development of novel technologies, modification/adoption of pre-existing technologies, removal/replacement of redundant technologies and differences in the function of phones. Hence the distinction between mobile and smartphones can be illustrated through these differences.
+  
 * Development of novel technologies.
+  
 
 * Modification/adoption of previous technolgies
- 1: Touch-screen is a prexisting technology, a touchscreen is defined as the ability for a surface area to simultaniously display an image or act as a 'screen' and receive an input.There are 2 forms of touch screen, resistive touchscreen and capacitive touchscreen. resistive touchscreen used pressure from a physical object to generate an input signal. Capacitive touch screen identified changes in a electro-static field by physical interaction from an electrically conductive object (Cite Capacitive_touchscreen). Most mobile-phones used bottons or resistive touchscreen prior to the first generation iphone, the apple iphone popuarized the use of capacitvie touchscreens(cite needed) and developed touchscreen technology by overcoming sensitivity, gesture recogonition and smooth glass interface limitations.(cite Capacitive_touchscreen) The adoption of touchscreen allowed for the development in os design and the expanse of UI/UX areas of research in science for interfaces expecting human touch within the small display dimensions of mobilephones.
+ 1: Touch-screen is a prexisting technology, a touchscreen is defined as the ability for a surface area to simultaniously display an image or act as a 'screen' and receive an input.There are 2 forms of touch screen, resistive touchscreen and capacitive touchscreen. resistive touchscreen used pressure from a physical object to generate an input signal. Capacitive touch screen identified changes in a electro-static field by physical interaction from an electrically conductive object (Cite Capacitive_touchscreen). Most mobile-phones used bottons or resistive touchscreen prior to the first generation iphone, the apple iphone popuarized the use of capacitvie touchscreens(citation needed) and developed touchscreen technology by overcoming sensitivity, gesture recogonition and smooth glass interface limitations.(cite Capacitive_touchscreen) The adoption of touchscreen required a new development in OS design and the expanse of UI/UX areas of research in science for interfaces expecting human touch within the small display dimensions of mobilephones.
+ 2: Operating system (OS) to run computer devices are a preexisting technology even on feature phones. While feature phones often ran a heavily limited OS, smartphones adopted an OS closer to a desktop style OS allowing for third party applications to be downloaded and ran on the OS and allowing for greater functionality especially when connected to networks such as the internet. The
 
 * Removal/replacement of redundant technologies
-1: Buttons were the primary input method for feature phonesremoved for as mentioned resistive and capacitive touchscreens. 
+ 1: Buttons were the primary input method for feature phones which were largely dropped in favor for the previously mentioned resistive and capacitive touchscreens. 
 
 * Differences in the functions of Phones
+ 1:There is no strict definition of a smartphone when compared to a feature phone, although most distinctions are drawn when the OS within the phone can handle additional functionality compared to feature phones. such definitions include the ability to run simple programs or applications besides calling or texting. To tighter definitions such as the ability to download and install third part applications, such definitions would even exclude the first Iphone as a smartphone.
   
   
 
