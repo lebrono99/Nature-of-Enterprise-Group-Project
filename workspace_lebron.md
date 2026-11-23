@@ -6,15 +6,9 @@ D (Ethical): There are many ethical problems when it comes to mobile phones. One
 
 For example, in the Democratic Republic of Congo, an orphaned 14 year old boy named Paul was forced to mine cobalt in the mines for 24 hours straight in the tunnels. He started mining at the age of 12, reporting that the constant work in the underground mines made him always ill and sick. The boy was supposed to have an education planned by his foster mother, but his foster father exploited him to work in the mines for money. This shows how exploited the workers are; There are thousands of miners being violated of their human rights and are always and risk at death.  
 
-There is no coporate shame on the companies buying these materials. The material is transported from the mines to large markets and then bought by companies. The three top buyers for cobalt are Ningbo Shanshan Tianjin Bamo from China and L&F Materials from South Korea, where they reportedly bought $90 million worth of cobalt in 2013. This material is thenexported to different countries like China and Korea. Where it is then used to produce batteries for electric devices like smartphones or  veheicles liek EVs. 
+There is no coporate shame on the companies buying these materials. The material is transported from the mines to large markets and then bought by companies. The three top buyers for cobalt are Ningbo Shanshan Tianjin Bamo from China and L&F Materials from South Korea, where they reportedly bought $90 million worth of cobalt in 2013. This material is thenexported to different countries like China and Korea. Where it is then used to produce batteries for electric devices like smartphones or  veheicles like EVs. 
 
 
-
-D(societal): Mobile phones has many impacts and effects on society. Almost everyone around the world has a smart phone. Smartphones are having a both positive impact and negative impact in todays society.
-
-D(societal): Smartphones has positive impacts on society, they are convenient. We can communicate over long distances..
-
-D(societal): Smartphones are affecting the younger generation the most. The younger generation is becoming more addicted to their phones. They are currently growing up with smartphone technology. 
 
 
 
@@ -22,8 +16,7 @@ D(societal): Smartphones are affecting the younger generation the most. The youn
 
 Sources: 
 
-1. (societal) https://compass-uk.org/services/compass-changing-lives/online-resources/what-effects-do-mobile-phones-have-on-children-and-young-peoples-mental-health/
-2. (societal) https://www.tutor2u.net/economics/blog/mobile-phones-the-impact-on-the-economy-society-and-our-personal-lives?srsltid=AU7gw4V9ZGxN_8aTgdve-G-L_U03DqH3Ia8NtH2bgivygrkNG5u53-JJ
-3. (ethical) https://www.ethicalconsumer.org/technology/shopping-guide/ethical-mobile-phones
-4. (ethical) https://www.amnesty.org/en/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/
-5. (ethical) https://www.tier1.com/the-hidden-environmental-impact-of-our-smartphones/
+1. (ethical) https://www.ethicalconsumer.org/technology/shopping-guide/ethical-mobile-phones
+2. (ethical) https://www.amnesty.org/en/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/
+3. (ethical) https://www.tier1.com/the-hidden-environmental-impact-of-our-smartphones/
+4. (ethical) https://www.visible.com/blog/visible-101/environmental-impact-of-smartphones
