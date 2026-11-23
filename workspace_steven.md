@@ -16,3 +16,4 @@ The second point I'd like to focus on is education. Education is perhaps the mos
 
 https://www.bbc.co.uk/bitesize/articles/z62gjfr https://www.govtech.com/products/How-Smartphones-Revolutionized-Society-in-Less-than-a-Decade.html https://havenpsychology.com.au/experiencing-loneliness-in-a-world-of-online-social-connection/
 https://www.bbc.com/future/article/20230403-how-cellphones-have-changed-our-brains
+https://www.britannica.com/procon/cell-phones-debate#ref391203
