@@ -8,6 +8,9 @@ For example, in the Democratic Republic of Congo, an orphaned 14 year old boy na
 
 There is no coporate shame on the companies buying these materials. The material is transported from the mines to large markets and then bought by companies. The three top buyers for cobalt are Ningbo Shanshan Tianjin Bamo from China and L&F Materials from South Korea, where they reportedly bought $90 million worth of cobalt in 2013. This material is thenexported to different countries like China and Korea. Where it is then used to produce batteries for electric devices like smartphones or  veheicles like EVs. 
 
+Another ethical problem is the carbon footprint of smartphones. In 2022, smartphones produced 146 millions tons of carbon dioxide emissions. This is from things like manufacturing and shipping. Since smartphones contain rare earth minerals like cobalt, it has been historically mined for years, causing environmental damage to the local area.
+
+
 
 
 
