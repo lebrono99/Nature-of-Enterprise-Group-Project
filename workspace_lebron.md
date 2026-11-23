@@ -2,13 +2,20 @@
 
 Begin:
 
+## Ethical - Exploitation of workers
 D (Ethical): There are many ethical problems when it comes to mobile phones. One ethical problem is the manufacturing process of the mobile phones. The material made for electronic parts from mobile phones comes from poor, corrupt countries. The materials are rare and can be found in Africa. The miners supplying these rare earth materials are working in extremely harsh conditions. They receive little to no pay, and the workers can be young as seven. These are happening in African countries like the Democratic Republic of Congo. Where miners are forced to work in the tunnels for as long as 24 hours straight to mine for cobalt. They work with little to no safety equipment, only working in normal clothes. They do not have safety helmets for protections, only wearing headlights to see what is in front of them. Most workers are not wearing any face masks, letting them to breathe in harmful dust that will affect their health in the long term. Working in the mines without basic safety equipment will majorly affect their mental and physical health. They are also constantly vulnerable to fatal accidents in the mines, they work in tight spaces and are under the risk of the mine to collapse on top of them. 80 miners have died underground between 2014 and 2015 alone.
 
 For example, in the Democratic Republic of Congo, an orphaned 14 year old boy named Paul was forced to mine cobalt in the mines for 24 hours straight in the tunnels. He started mining at the age of 12, reporting that the constant work in the underground mines made him always ill and sick. The boy was supposed to have an education planned by his foster mother, but his foster father exploited him to work in the mines for money. This shows how exploited the workers are; There are thousands of miners being violated of their human rights and are always and risk at death.  
 
-There is no coporate shame on the companies buying these materials. The material is transported from the mines to large markets and then bought by companies. The three top buyers for cobalt are Ningbo Shanshan Tianjin Bamo from China and L&F Materials from South Korea, where they reportedly bought $90 million worth of cobalt in 2013. This material is thenexported to different countries like China and Korea. Where it is then used to produce batteries for electric devices like smartphones or  veheicles like EVs. 
+There is no coporate shame on the companies buying these materials. The material is transported from the mines to large markets and then bought by companies. The three top buyers for cobalt are Ningbo Shanshan Tianjin Bamo from China and L&F Materials from South Korea, where they reportedly bought $90 million worth of cobalt in 2013. This material is then exported to different countries like China and Korea. Where it is then used to produce batteries for electric devices like smartphones or  veheicles like EVs. 
 
-Another ethical problem is the carbon footprint of smartphones. In 2022, smartphones produced 146 millions tons of carbon dioxide emissions. This is from things like manufacturing and shipping. Since smartphones contain rare earth minerals like cobalt, it has been historically mined for years, causing environmental damage to the local area.
+# Environmental impact
+Another ethical problem is the carbon footprint of smartphones. In 2022, smartphones produced 146 millions tons of carbon dioxide emissions. This is from things like manufacturing and shipping. Since cobalt has been historically mind for years, the surrounding area in where they were mined were leveled, meaning the greenery that was once there could not take in the carbon dioxide in the air. 
+
+Throwing away cellphones can cause fatal....
+
+
+
 
 
 
