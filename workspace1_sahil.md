@@ -35,5 +35,7 @@ https://www.google.com/
 
 https://resources.review42.com/smartphone-statistics/ 
 
-https://datareportal.com/global-digital-overview 
+https://datareportal.com/global-digital-overview
+
+https://youtu.be/HVLUtJWlcJY?si=aCoLHs5OaNo1-1ZH
   
