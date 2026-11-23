@@ -22,4 +22,18 @@
   After being discontinued in 2012, the Samsung galaxy S1 ended up selling over 25 million units which is another huge jump. Part of its success at the time was because their operating system from Google, android was blowing up with more than 500 million android devices being used everyday. It's still the most used smartphone operating system to this day.
 
 - The global smartphone audience surpassed 1 billion in 2012 and 1.75 billion in 2014. Nowadays it is said to be over 5 billion.
+
+https://en.wikipedia.org/wiki/History_of_smartphones 
+
+https://www.theseus.fi/server/api/core/bitstreams/84e19f4d-425c-43ec-991a-e8ea8b2828b9/content 
+
+https://en.wikipedia.org/wiki/IPhone_(1st_generation) 
+
+https://en.wikipedia.org/wiki/Samsung_Galaxy_S_(1st_generation) 
+
+https://www.google.com/ 
+
+https://resources.review42.com/smartphone-statistics/ 
+
+https://datareportal.com/global-digital-overview 
   
