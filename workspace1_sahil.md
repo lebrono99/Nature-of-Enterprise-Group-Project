@@ -21,7 +21,7 @@
 - The first Samsung galaxy phone was announced and released in 2010. At the time, the Samsung galaxy S1 had the fastest graphical processing of any smartphone and was the thinnest smartphone at 9.9 mm.
   After being discontinued in 2012, the Samsung galaxy S1 ended up selling over 25 million units which is another huge jump. Part of its success at the time was because their operating system from Google, android was blowing up with more than 500 million android devices being used everyday. It's still the most used smartphone operating system to this day.
 
-- The global smartphone audience surpassed 1 billion in 2012 and 1.75 billion in 2014. Nowadays it is estimated to be over 5 billion.
+- The global smartphone audience surpassed 1 billion in 2012 and 1.75 billion in 2014. Nowadays it is estimated to be over 5 billion which is more than half of the world population.
 
 https://en.wikipedia.org/wiki/History_of_smartphones 
 
