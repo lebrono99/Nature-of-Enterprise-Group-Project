@@ -1,5 +1,3 @@
-Evolution of the smartphone 
-
 Historical development 
 
 - Nowadays, most of us here have smartphones which we use every day, but it wasn't always the case so today we will talk about the history of the smartphone and its development. 
