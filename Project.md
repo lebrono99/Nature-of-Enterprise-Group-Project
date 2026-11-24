@@ -4,6 +4,7 @@ Evolution of the smartphone
 
 Smartphones have become an important part of our everyday life, changing the way we communicate, access information and interact with the world. This evolution is significant because it has influenced both society and the way people live. We can see this from our own experience with everyday life. iPhone have allowed us to get comfortable in ways we weren't with Nokia, we use our phones for information and entertainment on a daily basis, spending a lot of time on apps like TikTok, Snapchat, Instagram and Youtube. A lot of people in this room probably check their phone first thing when they wake up to turn off an alarm, check messages, or something within that region. This is a big evolution compared to when mobile phones were around. However, with comfort comes concern. And this project will explore this evolution from a scientific and social perspective, looking at the technological developments behind them and the positive and negative effects they have on everyday life.
 
+
 - Historical development
 
 Nowadays, most of us here have smartphones which we use every day, but it wasn't always the case so today we will talk about the history of the smartphone and its development. 
