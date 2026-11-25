@@ -16,7 +16,7 @@ Throwing away smartphones can cause fatal damage to the ecosystems, plants, anim
 Smartphone batteries contain harmful materials like mercury and lead. This can leak and pollute different water sources which is deadly, as fish can consume this material, which is then eaten by people. 
 
 ## Solutions
-To combat the exploitation of workers in Congo, support organisations like Amnesty International, where they fight for exploited workers and other problems. Currently, Amnesty are calling out multinational companies to invesigate their supply routes....
+To combat the exploitation of workers in Congo, support organisations like Amnesty International, where they fight for exploited workers and human rights. Currently, Amnesty are calling out multinational companies that buy these rare earth materials to investigate their supply chain and to address these human right abuses.
 
 
 
