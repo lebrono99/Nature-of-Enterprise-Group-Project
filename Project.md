@@ -52,7 +52,7 @@ Moving on to education. Students have a tendency to start drama by escalating ti
 
 - These range to tighter definitions such as the ability to download and install third party applications, although such definitions would even exclude the first iPhone as a smartphone. iPhones only received this functionality in the second generation of iPhones. Despite the lack of clear a distinction, smartphones have distinguished themselves through the additional functionality they provide, hence their role has also shifted from simple communication devices becoming personal data storage devices, multimedia devices and in essence portable computers trading power for a smaller form factor. Notably this intent to create a phone with the capabilities of a home computer was held within the design philosophy of one of the first smartphones, the aformentioned IBM Simon.
 
-### Development of novel technologies.\
+### Development of novel technologies
 1. Predictive text was a new OS feature introduced by the IBM Simon, unlike modern predictive text features the IBM Simon's PredictaKey Keyboard was a series of 6 letters which were displayed depending on what the phone predicted was the most likely to be used next. If the user was unsatisfied with the presented letters the 'other' button my be pressed to display the next set of likely 6 letters.
   
 ### Modification/adoption of previous technologies
