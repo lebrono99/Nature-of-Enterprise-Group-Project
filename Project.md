@@ -94,21 +94,12 @@ Overall, smartphones have made a big difference in our everyday lives.
 
 # References
 
-A history of mobile phones and smartphones - BBC Bitesize
 Iphone_touch_screen
 How Capacitive Touchscreens Work: Principles and Structure
-Mrwhosetheboss
-Digital Around the World — DataReportal – Global Digital Insights
-Smartphone Statistics (2026)
-Google
 Exposed: Child labour behind smart phone and electric car batteries
 Ethical Mobile Phones
 The Environmental Impact of Smartphones
 The Hidden Environmental Impact of Our Smartphones
-Samsung Galaxy S (1st generation)
-iPhone (1st generation)
-https://www.theseus.fi/server/api/core/bitstreams/84e19f4d-425c-43ec-991a-e8ea8b2828b9/content
-History of smartphones
 *[smartphone_industry_thesis](https://www.theseus.fi/server/api/core/bitstreams/84e19f4d-425c-43ec-991a-e8ea8b2828b9/content)*
 *[Iphone_touch_screen](https://books.google.ie/books?id=ekdkWGqw29EC&pg=PA34&redir_esc=y#v=onepage&q&f=false)*
 *[Capacitive_touchscreen](https://www.rocktech.com.hk/rocktech-blog/how-capacitive-touchscreens-work-principles-and-applications/)*
@@ -118,3 +109,10 @@ https://www.govtech.com/products/How-Smartphones-Revolutionized-Society-in-Less-
 https://havenpsychology.com.au/experiencing-loneliness-in-a-world-of-online-social-connection/ 
 https://www.bbc.com/future/article/20230403-how-cellphones-have-changed-our-brains 
 https://www.britannica.com/procon/cell-phones-debate#ref391203
+https://en.wikipedia.org/wiki/History_of_smartphones  
+https://en.wikipedia.org/wiki/IPhone_(1st_generation) 
+https://en.wikipedia.org/wiki/Samsung_Galaxy_S_(1st_generation) 
+https://www.google.com/ 
+https://resources.review42.com/smartphone-statistics/ 
+https://datareportal.com/global-digital-overview
+https://youtu.be/HVLUtJWlcJY?si=aCoLHs5OaNo1-1ZH (Mrwhosetheboss 2026)
