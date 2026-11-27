@@ -28,5 +28,5 @@ The first Samsung Galaxy phone was announced and released in 2010. At the time, 
 The global smartphone audience surpassed 1 billion in 2012 and 1.75 billion in 2014. Nowadays it is estimated to be over 5 billion, which is more than half of the world population. 
 
 Smartphones have come a long way, and they are much bigger than before so much so that there are now double and triple foldable phones. 
-Styluses and small Nokia style flip phones are also still a thing nowadays with it being evolved to have multiple screens. 
+Styluses and old style flip phones are also still a thing nowadays with it being evolved to have multiple screens. 
 Some smartphones are even more powerful than PC's or laptops, but they still lack extra functionality.
