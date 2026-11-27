@@ -46,7 +46,7 @@ Scientific view point
  1: Buttons were the primary input method for feature phones which were largely dropped in favor for the previously mentioned resistive and capacitive touchscreens. 
 
 * Differences in the functions of Phones
- 1:There is no strict definition of a smartphone when compared to a feature phone, although most distinctions are drawn when the OS within the phone can handle additional functionality compared to feature phones. such definitions include the ability to run simple programs or applications besides calling or texting. To tighter definitions such as the ability to download and install third part applications, such definitions would even exclude the first Iphone as a smartphone.
+ 1:There is no strict definition of a smartphone when compared to a feature phone, although most distinctions are drawn when the OS within the phone can handle additional functionality compared to rudimentary call, text and simple games of feature phones. Such definitions include the ability to run programs or applications besides said rudimentary features. This ranges to tighter definitions such as the ability to download and install third party applications, such definitions would even exclude the first iPhone as a smartphone, iPhones only received this functionality in the second generation of iPhones. Despite the lack of clear a distinction, smartphones have distinguished themselves through the additional functionality they provide, hence their role has also shifted becoming personal data storage devices, multimedia devices and in essence portable computers, trading power for a smaller form factor.
   
   
 
