@@ -31,8 +31,8 @@ Scientific view point
 * Preceading smartphones to the Apple 1st and 2nd generation Iphones
 * Iphone mutli-touch display
 
-
-# What is a scientific viewpoint
+# Scientific Viewpoint Analysis
+# Defnining the scientific viewpoint
 * From a scientific viewpoint the evolution of mobile phones to smartphones can be evaluated through the development of novel technologies, modification/adoption of pre-existing technologies, removal/replacement of redundant technologies and differences in the function of phones. Hence the distinction between mobile and smartphones can be illustrated through these differences.
 
 * Differences in the functions of Phones
