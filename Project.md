@@ -65,7 +65,6 @@ Moving on to education. Students have a tendency to start drama by escalating ti
 ### Removal/replacement of redundant technologies
 1. Buttons were the primary input method for feature phones which were largely dropped in favor for the previously mentioned resistive and capacitive touchscreens. While most buttons were removed some physical buttons were still present such a navigation buttons on the bottom and media controls on the side for controlling volume or allowing quick switching on or off of the device.
 
-
 # Ethical -
 ## Exploitation of workers
 One ethical problem with mobile phones is where they come from. Parts of mobile phones contain rare earth materials that only come from countries like the Democratic Republic of Congo(DRC). Workers mine for cobalt and are often exploited. For example, a Congolese boy named Paul was exploited to work in the mines for a day straight, using him for child labour. He started mining when he was 12 and worked with little to no safety equipment and little pay. He was constantly ill and sick while underground. This affects his physical health, the harmful dust he breathed while working will affect his health in the long term. Paul was also at risk of the mines collapsing on him, as the mines are dark, tight spaces and are always prone to collapsing. Around 80 miners have died underground during 2014-2015.
