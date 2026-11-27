@@ -31,7 +31,7 @@ Smartphones have come a long way, and they are much bigger than before so much s
 Styluses and old style flip phones are also still a thing nowadays with it being evolved to have multiple screens. 
 Some smartphones are even more powerful than PC's or laptops, but they still lack extra functionality.
 
-# SOCIETAL VIEWPOINT ON PHONES
+# Societal Viewpoint on phones
 
 Since the iPhone's launch, smartphones have brought us many benefits such as better communication and connectivity, apps like Instagram and snapchat have allowed us to connect and make friends with people across the globe, some may argue they have reduced isolation, many people have made connections through online communities such as games or forums bonding through shared interests with around 33% to 35% of young adults and teenagers meeting their online friends in real life, face-to-face according to articles from RTE and BBC. Something positive that unfortunately comes with many negatives. 
 
