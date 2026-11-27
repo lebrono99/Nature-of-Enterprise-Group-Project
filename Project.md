@@ -95,16 +95,12 @@ Overall, smartphones have made a big difference in our everyday lives.
 # References
 
 A history of mobile phones and smartphones - BBC Bitesize
-How Smartphones Revolutionized Society in Less than a Decade
 Iphone_touch_screen
 How Capacitive Touchscreens Work: Principles and Structure
-Experiencing Loneliness in a World of Online Social Connection
 Mrwhosetheboss
 Digital Around the World — DataReportal – Global Digital Insights
 Smartphone Statistics (2026)
 Google
-How mobile phones have changed our brains
-Cell Phones in Schools | Pros, Cons, Debate, Education, Technology, Distraction, & Emergency | Britannica
 Exposed: Child labour behind smart phone and electric car batteries
 Ethical Mobile Phones
 The Environmental Impact of Smartphones
@@ -118,4 +114,7 @@ History of smartphones
 *[Capacitive_touchscreen](https://www.rocktech.com.hk/rocktech-blog/how-capacitive-touchscreens-work-principles-and-applications/)*
 *[Simon_smartphone](https://history-computer.com/Library/IBM%20Simon%20User%20Manual.pdf)*
 *[Feature_Phone](https://www.wonderfulpcb.com/blog/feature-phone-vs-smartphone-key-differences-and-main-uses/#Key_Features)*
-
+https://www.govtech.com/products/How-Smartphones-Revolutionized-Society-in-Less-than-a-Decade.html 
+https://havenpsychology.com.au/experiencing-loneliness-in-a-world-of-online-social-connection/ 
+https://www.bbc.com/future/article/20230403-how-cellphones-have-changed-our-brains 
+https://www.britannica.com/procon/cell-phones-debate#ref391203
