@@ -61,3 +61,11 @@ Smartphone batteries contain harmful materials like mercury and lead. When it is
 To combat the exploitation of workers in Congo, support organisations like Amnesty International, where they fight for exploited workers and human rights. Currently, Amnesty are calling out multinational companies that buy these rare earth materials to investigate their supply chain and to address these human right abuses. They demand companies and the government to free the child workers and introduce workers rights.
 
 Solutions to stop the destruction of ecosystems and e-waste can be in many different ways, such as: using your mobile phone for a few more years if your phone can still function properly, Repairing your phone when its damaged, buying second hand phones, etc. These methods can reduce the pressure of landfills on the natural environment. Every phone that is used for a longer time means that it reduces the pressure on mines, factories and landfills, these can help not just the environment, but the people who are affected in the industry.
+
+# Conclusion
+
+In conclusion, the evolution of mobile phones from Nokia to iPhone has had a significant impact on both science and society.
+Technology has improved a lot with features such as cameras, apps and the internet in general.
+Socially, phones have made it easier to communicate and stay connected. 
+However, people now spend a bit too much time online.
+Overall, smartphones have made a big difference in our everyday lives.
