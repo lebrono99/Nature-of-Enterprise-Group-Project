@@ -114,3 +114,9 @@ Samsung Galaxy S (1st generation)
 iPhone (1st generation)
 https://www.theseus.fi/server/api/core/bitstreams/84e19f4d-425c-43ec-991a-e8ea8b2828b9/content
 History of smartphones
+*[smartphone_industry_thesis](https://www.theseus.fi/server/api/core/bitstreams/84e19f4d-425c-43ec-991a-e8ea8b2828b9/content)*
+*[Iphone_touch_screen](https://books.google.ie/books?id=ekdkWGqw29EC&pg=PA34&redir_esc=y#v=onepage&q&f=false)*
+*[Capacitive_touchscreen](https://www.rocktech.com.hk/rocktech-blog/how-capacitive-touchscreens-work-principles-and-applications/)*
+*[Simon_smartphone](https://history-computer.com/Library/IBM%20Simon%20User%20Manual.pdf)*
+*[Feature_Phone](https://www.wonderfulpcb.com/blog/feature-phone-vs-smartphone-key-differences-and-main-uses/#Key_Features)*
+
