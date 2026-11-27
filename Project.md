@@ -69,3 +69,25 @@ Technology has improved a lot with features such as cameras, apps and the intern
 Socially, phones have made it easier to communicate and stay connected. 
 However, people now spend a bit too much time online.
 Overall, smartphones have made a big difference in our everyday lives.
+
+# References
+
+A history of mobile phones and smartphones - BBC Bitesize
+How Smartphones Revolutionized Society in Less than a Decade
+Iphone_touch_screen
+How Capacitive Touchscreens Work: Principles and Structure
+Experiencing Loneliness in a World of Online Social Connection
+Mrwhosetheboss
+Digital Around the World — DataReportal – Global Digital Insights
+Smartphone Statistics (2026)
+Google
+How mobile phones have changed our brains
+Cell Phones in Schools | Pros, Cons, Debate, Education, Technology, Distraction, & Emergency | Britannica
+Exposed: Child labour behind smart phone and electric car batteries
+Ethical Mobile Phones
+The Environmental Impact of Smartphones
+The Hidden Environmental Impact of Our Smartphones
+Samsung Galaxy S (1st generation)
+iPhone (1st generation)
+https://www.theseus.fi/server/api/core/bitstreams/84e19f4d-425c-43ec-991a-e8ea8b2828b9/content
+History of smartphones
